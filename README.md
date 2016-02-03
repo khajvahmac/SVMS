@@ -1,4 +1,4 @@
 # SVMS
 Street View Management System
 
-Management system for multiple cameras.
+Management system for geographic locations with multiple cameras.
